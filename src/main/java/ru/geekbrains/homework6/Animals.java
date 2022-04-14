@@ -1,6 +1,7 @@
 package ru.geekbrains.homework6;
 
 public class Animals {
+
     String name;
     int runMeters;
     int swamMeters;

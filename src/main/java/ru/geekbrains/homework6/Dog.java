@@ -1,6 +1,7 @@
 package ru.geekbrains.homework6;
 
 public class Dog extends Animals {
+
     public Dog(String name, int runMeters, int swamMeters) {
         super(name, runMeters, swamMeters);
     }
